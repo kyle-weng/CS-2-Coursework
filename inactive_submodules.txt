@@ -1,0 +1,45 @@
+[submodule "lab01-chinook"]
+	path = lab01-chinook
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab01-chinook.git
+[submodule "lab02-berzerk"]
+	path = lab02-berzerk
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab02-berzerk.git
+[submodule "lab03-deinonychus"]
+	path = lab03-deinonychus
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab03-deinonychus.git
+[submodule "lab04-chalcedony"]
+	path = lab04-chalcedony
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab04-chalcedony.git
+[submodule "lab06-poodle"]
+	path = lab06-poodle
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab06-poodle.git
+[submodule "lab07-otterhound"]
+	path = lab07-otterhound
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab07-otterhound.git
+[submodule "lab08-milamber"]
+	path = lab08-milamber
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/lab08-milamber.git
+[submodule "project01-kweng"]
+	path = project01-kweng
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project01-kweng.git
+[submodule "project02-kweng"]
+	path = project02-kweng
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project02-kweng.git
+[submodule "project03-kweng"]
+	path = project03-kweng
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project03-kweng.git
+[submodule "project04-tangela"]
+	path = project04-tangela
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project04-tangela.git
+[submodule "project05-russo"]
+	path = project05-russo
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project05-russo.git
+[submodule "project06-danish"]
+	path = project06-danish
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project06-danish.git
+[submodule "project07-slothbear"]
+	path = project07-slothbear
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project07-slothbear.git
+[submodule "project08-vileplume"]
+	path = project08-vileplume
+	url = https://oauth2:2azBzz931q1KyCyz1XkN@gitlab.caltech.edu/cs2-19wi/project08-vileplume.git
